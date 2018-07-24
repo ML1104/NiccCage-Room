@@ -1,0 +1,23 @@
+{
+  "name": "nicccage-room",
+  "version": "1.0.0",
+  "description": "Nick-on-click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ML1104/NiccCage-Room.git"
+  },
+  "author": "Anastasiia Hubar & Milos Lazarevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ML1104/NiccCage-Room/issues"
+  },
+  "homepage": "https://github.com/ML1104/NiccCage-Room#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ws": "^6.0.0"
+  }
+}
